@@ -3,7 +3,7 @@
     <title>はるのホームページ</title>
     <link href="https://amemiya-h.github.io/feed.xml" rel="self" />
     <link href="https://amemiya-h.github.io" />
-    <updated>2025-02-18T18:09:35+09:00</updated>
+    <updated>2025-02-18T20:07:50+09:00</updated>
     <author>
         <name>雨宮はる</name>
     </author>
@@ -37,9 +37,7 @@
 <p>に出てくる変数でした。ちなみに、最適制御というのはこれを最小にする制御方式を意味しています。</p>
 <p>　講義では（時間の都合上）これの証明を少ししか触れていなくて、その証明方法も理由が不明（これを足せば偶然よくいい結果が出てくるよね、みたいな）なところがありましたので、今まではそのまま知識としてしか認識していませんでした。</p>
 <p>　４Ｑになって中尾先生の解析力学で変分原理について習いましたので、最適制御について振り返るともう一つの証明方法を見つけました。この証明について話していきたいと思います。</p>
-<blockquote>
-<p>　変分原理の基本については</p>
-</blockquote>
+<p class="msg msg--info align-right">変分原理の基本についてはこちらを参照：<a href="https://amemiya-h.github.io/the-d-operator/" target="_blank" rel="noopener noreferrer"></a><a href="https://amemiya-h.github.io/the-d-operator/" target="_blank" rel="noopener noreferrer">The d Operator</a></p>
             ]]>
         </content>
     </entry>

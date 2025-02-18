@@ -15,7 +15,7 @@
             "url": "https://amemiya-h.github.io/rederiving-optimal-control-via-the-variational-principle/",
             "title": "Rederiving Optimal Control via the Variational Principle",
             "summary": "　東工大に入って間もなく、三平先生の線型システム制御論を履修することになって、当時では全くわからない単語がほとんどでした。講義の中で最適制御という話題が挙げられて、あるシステム&hellip;",
-            "content_html": "<p>　東工大に入って間もなく、三平先生の線型システム制御論を履修することになって、当時では全くわからない単語がほとんどでした。講義の中で最適制御という話題が挙げられて、あるシステム</p>\n<p class=\"align-center\">$$ \\frac{dx}{dt} = Ax + Bu $$</p>\n<p>に対して、入力を</p>\n<p class=\"align-center\">$$ u = R^{-1} B^T P x $$</p>\n<p>にするのは最適な制御方法、とのことでした。ここで、$P$ はリッカチ方程式</p>\n<p class=\"align-center\">$$ AP + PA^T + PBRBP + Q = 0 $$</p>\n<p>を満たすようなもので、$Q$ と $R$ は</p>\n<p class=\"align-center\">$$J = \\int _0 ^\\infty (x^T Q x + u^T R u) dt$$</p>\n<p>に出てくる変数でした。ちなみに、最適制御というのはこれを最小にする制御方式を意味しています。</p>\n<p>　講義では（時間の都合上）これの証明を少ししか触れていなくて、その証明方法も理由が不明（これを足せば偶然よくいい結果が出てくるよね、みたいな）なところがありましたので、今まではそのまま知識としてしか認識していませんでした。</p>\n<p>　４Ｑになって中尾先生の解析力学で変分原理について習いましたので、最適制御について振り返るともう一つの証明方法を見つけました。この証明について話していきたいと思います。</p>\n<blockquote>\n<p>　変分原理の基本については</p>\n</blockquote>",
+            "content_html": "<p>　東工大に入って間もなく、三平先生の線型システム制御論を履修することになって、当時では全くわからない単語がほとんどでした。講義の中で最適制御という話題が挙げられて、あるシステム</p>\n<p class=\"align-center\">$$ \\frac{dx}{dt} = Ax + Bu $$</p>\n<p>に対して、入力を</p>\n<p class=\"align-center\">$$ u = R^{-1} B^T P x $$</p>\n<p>にするのは最適な制御方法、とのことでした。ここで、$P$ はリッカチ方程式</p>\n<p class=\"align-center\">$$ AP + PA^T + PBRBP + Q = 0 $$</p>\n<p>を満たすようなもので、$Q$ と $R$ は</p>\n<p class=\"align-center\">$$J = \\int _0 ^\\infty (x^T Q x + u^T R u) dt$$</p>\n<p>に出てくる変数でした。ちなみに、最適制御というのはこれを最小にする制御方式を意味しています。</p>\n<p>　講義では（時間の都合上）これの証明を少ししか触れていなくて、その証明方法も理由が不明（これを足せば偶然よくいい結果が出てくるよね、みたいな）なところがありましたので、今まではそのまま知識としてしか認識していませんでした。</p>\n<p>　４Ｑになって中尾先生の解析力学で変分原理について習いましたので、最適制御について振り返るともう一つの証明方法を見つけました。この証明について話していきたいと思います。</p>\n<p class=\"msg msg--info align-right\">変分原理の基本についてはこちらを参照：<a href=\"https://amemiya-h.github.io/the-d-operator/\" target=\"_blank\" rel=\"noopener noreferrer\"></a><a href=\"https://amemiya-h.github.io/the-d-operator/\" target=\"_blank\" rel=\"noopener noreferrer\">The d Operator</a></p>",
             "author": {
                 "name": "雨宮はる"
             },
@@ -23,7 +23,7 @@
                    "MATH"
             ],
             "date_published": "2025-02-17T18:34:48+09:00",
-            "date_modified": "2025-02-18T18:09:35+09:00"
+            "date_modified": "2025-02-18T20:07:50+09:00"
         }
     ]
 }
